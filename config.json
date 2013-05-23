@@ -1,4 +1,4 @@
 {
-    "name": "Test App",
-    "classsssssName": "TestApp"
+    "name": "Test App missing required value",
+    "clazzName": "TestAppMissingRequiredValue"
 }
